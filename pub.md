@@ -4,6 +4,8 @@
 
 ### Pre-prints (In review)
 
+* Renee Hartig, Daniel Glen, Benjamin Jung, Nikos Logothetis, George Paxinos, Eduardo A Garza-Villarreal, Adam Messinger, Henry Ervard. Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging. 2020
+
 *  Adam Messinger,  Nikoloz Sirmpilatze,  Katja Heuer,  Kep Kee Loh,  Rogier Mars,  Julien Sein,  Ting Xu,  Daniel Glen,  Benjamin Jung,  Jakob Seidlitz,  Paul Taylor,  Roberto Toro,  Eduardo Garza-Villarreal,  Caleb Sponheim,  Xindi Wang,  Austin Benn,  Bastien Cagna,  Rakshit Dadarwal,  Henry Evrard,  Pamela Garcia-Saldivar, Steven Giavasis,  Renee Hartig, Claude Lepage,  Cirong Liu,  Piotr Majka,  Hugo Merchant,  Michael Milham,  Marcello Rosa,  Jordy Tasserie,  Lynn Uhrig,  Daniel Margulies,  Peter Christiaan Klink. [A collaborative resource platform for non-human primate neuroimaging](https://www.biorxiv.org/content/10.1101/2020.07.31.230185v1) 2020. 
 
 * Eduardo A. Garza-Villarreal*, Ruth Alcala-Lozano, Sofia Fernandez-Lozano, Erik Morelos-Santana, Alan Davalos, Vivianaa Villicana, Sarael Alcauter,  Francisco Xavier Castellanos, Jorge J Gonzalez-Olvera. [Clinical and functional connectivity outcomes of 5-Hz repeated transcranial magnetic stimulation as an add-on treatment in cocaine use disorder: a double-blind randomized controlled trial.](https://www.medrxiv.org/content/10.1101/2020.07.15.20154708v1) 2020. Pre-registration on Clinicaltrias.gov [NCT02986438](https://clinicaltrials.gov/ct2/show/NCT02986438). Data in [OpenNeuro](https://openneuro.org/datasets/ds003037), maps in [Neurovault](https://neurovault.org/collections/8519/).
