@@ -4,12 +4,15 @@
 
 ### Neuroimaging output
 
+
+* Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging or [SARM Atlas](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html). Paper [here](https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1).
+
 * UNAM-UANL Wistar rat hierarchical neuroimaging atlas (WISMEX atlas). (In the works).
 
-### Open Science Data & Code
-* Said Jimenez, Kamila E. Sip, Roberto E. Mercadillo, Diego Angeles-Valdez, Jairo Muñoz-Delgado, Juan J. Sanchez-Sosa and Eduardo A. Garza-Villarreal*. [Social closeness and latent commitment impact decisions to keep promises](https://psyarxiv.com/ujrdk/). 2020. Pre-registration: [https://osf.io/u97fd](https://osf.io/u97fd), Data and code at OSF [https://osf.io/39ygk/](https://osf.io/39ygk/).
+### Open Datasets
 
-* Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, Garza-Villarreal
-EA. [Functional connectivity of music-induced analgesia in fibromyalgia.](https://www.nature.com/articles/s41598-019-51990-4). Scientific Reports 9 (15486), 2019. Data at Open Neuro [https://openneuro.org/datasets/ds001928/versions/1.1.0](https://openneuro.org/datasets/ds001928/versions/1.1.0).
+* [SUDMEX_CONN: The Mexican dataset of cocaine use disorder patients.](https://openneuro.org/datasets/ds003346/versions/1.1.0)
 
-* Said Jiménez, Diego Angeles-Valdez, Viviana Villicaña, Ernesto Reyes-Zamorano, Ruth Alcala-Lozano, Jorge Gonzalez-Olvera, Eduardo Garza-Villarreal*. [Machine learning consistently predicts cocaine dependence based on cognitive markers.](https://psyarxiv.com/7qsz3/) (open access in PsyArXiv).  Progress in Neuro-psychopharmacology and biological psychiatry, 2019. [DOI:10.1016/j.pnpbp.2019.109709](https://doi.org/10.1016/j.pnpbp.2019.109709). Data at OSF [https://osf.io/m7h3x/](https://osf.io/m7h3x/).
+* [SUDMEX_TMS: The Mexican dataset of an rTMS clinical trial on cocaine use disorder patients.](https://openneuro.org/datasets/ds003037/versions/1.0.0)
+
+* [Functional Connectivity of Music-Induced Analgesia in Fibromyalgia.](https://openneuro.org/datasets/ds001928/versions/1.1.0) Paper [here](https://www.nature.com/articles/s41598-019-51990-4)

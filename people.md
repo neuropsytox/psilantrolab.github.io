@@ -8,10 +8,8 @@
 
 * *Assistant Professor, Institute of Neurobiology, UNAM, Mexico.*
 
-* *Visiting Senior Researcher, University of Aarhus, Denmark.*
 
-
-[Personal Website](https://egarza.github.io) - [Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.com/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648) - [AU](http://pure.au.dk/portal/en/eduardoa@cfin.au.dk)
+[Personal Website](https://egarza.github.io) - [Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.com/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648)
 
 
 ### PhD students
@@ -21,27 +19,26 @@
 
 ### Master students
 
+![Diego E](diegoe.jpg) Diego E. Ortuzar-Martínez, BSc, Neurobiology
+
+![Ale](ale.jpg) Alejandra Lopez-Castro, M.D., Neurobiology
+
 ![Diego](diego.jpg) Diego Angeles-Valdez, B.A., Neurobiology
 
 ![Alan](alan.jpg) Alan Davalos, M.D., Medical Sciences
 
-![Ale](ale.jpg) Alejandra Lopez-Castro, M.D., Neurobiology
 
+### Research Assistants
 
+![Jalil](jalil.jpg) Jalil Rasgado, M.Sc.
 
-### Bachelor Students
-
-
+![Maya](maya.jpg) Juan Pablo Maya-Arteaga, M.D.
 
 ### External students (co-supervising)
 
 ![LuisA](luis.jpg) Luis A. Trujillo, M.Sc., Biochemistry
 
 *Ph.D. Student, Faculty of Medicine, Universidad Autónoma de Nuevo León. Supervisor: [Alberto Camacho](https://scholar.google.com.mx/citations?user=4rbm3UYAAAAJ&hl=en)*
-
-![Arun](arun.jpg) Arun Garimella, Computer Sciences
-
-*M.Sc. student, International Institute of Information Technology Hyderabad, India. Supervisor: [Vinoo Alluri](https://scholar.google.co.in/citations?user=pQQpWakAAAAJ&hl=en)*
 
 ![Said](said.jpg) Said Jimenez, M.Sc., Psychology
 
@@ -54,15 +51,16 @@
 
 ### Alumni
 
-![Alely](alely.jpg) Alely Valencia, B.A.
+![Arun](arun.jpg) Arun Garimella, Computer Sciences *(Currrently **RA** at Computational Neuroscience Labs, **ATR Institute International**, Kyoto, Japan*
+
+
+![Alely](alely.jpg) Alely Valencia, B.A. 
 
 ![Sofia](sofia.jpg) Sofia Fernandez, M.Sc. *(Currently **PhD student** at Louis Collins Lab in **McGill University**)*
 
 ![Sigrid](sigrid.jpg) Sigrid Lunde, Ph.D. *(Currently **PostDoc** at the Department of Psychology and Behavioral Sciences in **University of Aarhus**)*
 
 ![Viviana](viviana.jpg) Viviana Villicaña, B.A. *(Currently* **MSc student** *at NeuroBIM-Bordeaux International Master of Neurosciences in* **University of Bordeaux***)*
-
-![Victor](victor.jpg) Victor Pando, M.Sc. *(Currently:* **PhD student** *at Center for Music in the Brain in* **University of Aarhus***)*
 
 ![Josue](josue.jpg) Josue Mendoza, B.A. *(Currently:* **Specialty** in Applied Statistics from the **IMAS UNAM***)*
 
