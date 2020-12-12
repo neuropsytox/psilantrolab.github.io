@@ -4,8 +4,9 @@
 
 ### Neuroimaging output
 
+* Axolotl Atlas UNAM in [Zenodo](https://zenodo.org/record/4317788#.X9U-Ben0nlw). Preprint [here](https://www.biorxiv.org/content/10.1101/2020.12.09.418566v1).
 
-* Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging or [SARM Atlas](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html). Paper [here](https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1).
+* Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging or [SARM Atlas](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html). Preprint [here](https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1).
 
 * UNAM-UANL Wistar rat hierarchical neuroimaging atlas (WISMEX atlas). (In the works).
 
