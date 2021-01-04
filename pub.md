@@ -4,6 +4,8 @@
 
 ### Pre-prints (In review)
 
+* Eliseo Dóminguez Arriola, Victor E Olalde Mathieu, Eduardo A. Garza-Villarreal and Fernando A Barrios. 2021. [The Dorsolateral Prefrontal Cortex Presents Structural Variations Associated with Empathic Capacity in Psychotherapists.](https://www.biorxiv.org/content/10.1101/2021.01.02.425096v1) bioRxiv 2021 
+ 
 * Lazcano, Iván, Abraham Cisneros-Mejorado, Luis Concha, Juan José Ortíz Retana, Eduardo A. Garza-Villarreal, and Aurea Orozco. 2020. [MRI- and Histologically Derived Neuroanatomical Atlas of the Ambystoma Mexicanum (axolotl).](https://doi.org/10.1101/2020.12.09.418566) bioRxiv 2020
 
 * Jalil Rasgado Toledo, Apurva Shah, Madhura Ingalhalikar,  Eduardo A. Garza-Villarreal. [Neurite orientation dispersion and density imaging in cocaine use disorder](https://www.medrxiv.org/content/10.1101/2020.10.28.20221911v1). MedrXiv 2020.
@@ -23,8 +25,7 @@
 
 * Victor Pando-Naude, Sebastian Toxto, Sofia Fernandez-Lozano, Christine E. Parsons, Alcauter, and Eduardo A. Garza-Villarreal*. [Gray and white matter morphology in substance use disorders: A neuroimaging systematic review and meta-analysis](https://www.biorxiv.org/content/10.1101/2020.05.29.122812v1). Pre-registration in Prospero # CRD42017071222. Accepted in *Translational Psychiatry* (2020).
 
-*  Adam Messinger,  Nikoloz Sirmpilatze,  Katja Heuer,  Kep Kee Loh,  Rogier Mars,  Julien Sein,  Ting Xu,  Daniel Glen,  Benjamin Jung,  Jakob Seidlitz,  Paul Taylor,  Roberto Toro,  Eduardo Garza-Villarreal,  Caleb Sponheim,  Xindi Wang,  Austin Benn,  Bastien Cagna,  Rakshit Dadarwal,  Henry Evrard,  Pamela Garcia-Saldivar, Steven Giavasis,  Renee Hartig, Claude Lepage,  Cirong Liu,  Piotr Majka,  Hugo Merchant,  Michael Milham,  Marcello Rosa,  Jordy Tasserie,  Lynn Uhrig,  Daniel Margulies,  Peter Christiaan Klink. [A collaborative resource platform for non-human primate neuroimaging](https://www.biorxiv.org/content/10.1101/2020.07.31.230185v1) In Press in *Neuroimage* (2020). 
-
+*  Adam Messinger,  Nikoloz Sirmpilatze,  Katja Heuer,  Kep Kee Loh,  Rogier Mars,  Julien Sein,  Ting Xu,  Daniel Glen,  Benjamin Jung,  Jakob Seidlitz,  Paul Taylor,  Roberto Toro,  Eduardo Garza-Villarreal,  Caleb Sponheim,  Xindi Wang,  Austin Benn,  Bastien Cagna,  Rakshit Dadarwal,  Henry Evrard,  Pamela Garcia-Saldivar, Steven Giavasis,  Renee Hartig, Claude Lepage,  Cirong Liu,  Piotr Majka,  Hugo Merchant,  Michael Milham,  Marcello Rosa,  Jordy Tasserie,  Lynn Uhrig,  Daniel Margulies,  Peter Christiaan Klink. [A collaborative resource platform for non-human primate neuroimaging](https://www.biorxiv.org/content/10.1101/2020.07.31.230185v1) NeuroImage (2020), 226 (November): 117519.
 
 * Milham M, The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium, et al. [Accelerating the evolution of nonhuman primate neuroimaging](https://www.sciencedirect.com/science/article/pii/S089662731931089X). Neuron. (2020), Feb 105;4, 600-603.
  
