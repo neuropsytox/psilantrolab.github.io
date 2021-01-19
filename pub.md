@@ -19,11 +19,15 @@
 
 ### Peer-reviewed scientific papers
 
+### 2021
+
+* Luis A. Trujillo-Villarreal, Viktor J. Romero-Díaz, Iván Alberto Marino-Martínez, Lizeth Fuentes-Mera, Marco Antonio Ponce-Camacho, Gabriel A. Devenyi, M. Mallar, Alberto Camacho-Morales, Eduardo E. Garza-Villarreal. Maternal cafeteria diet exposure primes depression-like behavior in the offspring evoking lower brain volume related to changes in synaptic terminals and gliosis. *Translational Psychiatry* 11 (1): 1–13.(2020)
+
+* Victor Pando-Naude, Sebastian Toxto, Sofia Fernandez-Lozano, Christine E. Parsons, Alcauter, and Eduardo A. Garza-Villarreal. [Gray and white matter morphology in substance use disorders: A neuroimaging systematic review and meta-analysis](https://www.biorxiv.org/content/10.1101/2020.05.29.122812v1). Pre-registration in Prospero # CRD42017071222. *Translational Psychiatry* 11 (1): 29.
+
 ### 2020
 
-* Luis A. Trujillo-Villarreal, Viktor J. Romero-Díaz, Iván Alberto Marino-Martínez, Lizeth Fuentes-Mera, Marco Antonio Ponce-Camacho, Gabriel A. Devenyi, M. Mallar, Alberto Camacho-Morales *, Eduardo E. Garza-Villarreal *. Maternal cafeteria diet exposure primes depression-like behavior in the offspring evoking lower brain volume related to changes in synaptic terminals and gliosis. Accepted in *Translational Psychiatry* (2020)
-
-* Victor Pando-Naude, Sebastian Toxto, Sofia Fernandez-Lozano, Christine E. Parsons, Alcauter, and Eduardo A. Garza-Villarreal*. [Gray and white matter morphology in substance use disorders: A neuroimaging systematic review and meta-analysis](https://www.biorxiv.org/content/10.1101/2020.05.29.122812v1). Pre-registration in Prospero # CRD42017071222. Accepted in *Translational Psychiatry* (2020).
+* Garcia-Saldivar, Pamela, Arun Garimella, Eduardo A. Garza-Villarreal, Felipe A. Mendez, Luis Concha, and Hugo Merchant. 2020. “PREEMACS: Pipeline for Preprocessing and Extraction of the Macaque Brain Surface.” NeuroImage 227 (December): 117671.
 
 *  Adam Messinger,  Nikoloz Sirmpilatze,  Katja Heuer,  Kep Kee Loh,  Rogier Mars,  Julien Sein,  Ting Xu,  Daniel Glen,  Benjamin Jung,  Jakob Seidlitz,  Paul Taylor,  Roberto Toro,  Eduardo Garza-Villarreal,  Caleb Sponheim,  Xindi Wang,  Austin Benn,  Bastien Cagna,  Rakshit Dadarwal,  Henry Evrard,  Pamela Garcia-Saldivar, Steven Giavasis,  Renee Hartig, Claude Lepage,  Cirong Liu,  Piotr Majka,  Hugo Merchant,  Michael Milham,  Marcello Rosa,  Jordy Tasserie,  Lynn Uhrig,  Daniel Margulies,  Peter Christiaan Klink. [A collaborative resource platform for non-human primate neuroimaging](https://www.biorxiv.org/content/10.1101/2020.07.31.230185v1) NeuroImage (2020), 226 (November): 117519.
 
