@@ -12,7 +12,6 @@
 
 * Renee Hartig, Daniel Glen, Benjamin Jung, Nikos Logothetis, George Paxinos, Eduardo A Garza-Villarreal, Adam Messinger, Henry Ervard. [Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging.](https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1) bioRxiv 2020.
 
-* Eduardo A. Garza-Villarreal*, Ruth Alcala-Lozano, Sofia Fernandez-Lozano, Erik Morelos-Santana, Alan Davalos, Vivianaa Villicana, Sarael Alcauter,  Francisco Xavier Castellanos, Jorge J Gonzalez-Olvera. [Clinical and functional connectivity outcomes of 5-Hz repeated transcranial magnetic stimulation as an add-on treatment in cocaine use disorder: a double-blind randomized controlled trial.](https://www.medrxiv.org/content/10.1101/2020.07.15.20154708v1) MedRxiv 2020. Pre-registration on Clinicaltrias.gov [NCT02986438](https://clinicaltrials.gov/ct2/show/NCT02986438). Data in [OpenNeuro](https://openneuro.org/datasets/ds003037), maps in [Neurovault](https://neurovault.org/collections/8519/).
 
 * Said Jimenez, Kamila E. Sip, Roberto E. Mercadillo, Diego Angeles-Valdez, Jairo Muñoz-Delgado, Juan J. Sanchez-Sosa and Eduardo A. Garza-Villarreal*. [Social closeness and latent commitment impact decisions to keep promises](https://psyarxiv.com/ujrdk/). psyArXiv 2020. Pre-registration: [https://osf.io/u97fd](https://osf.io/u97fd), Data and code: [https://osf.io/39ygk/](https://osf.io/39ygk/).
 
@@ -21,9 +20,11 @@
 
 ### 2021
 
-* Luis A. Trujillo-Villarreal, Viktor J. Romero-Díaz, Iván Alberto Marino-Martínez, Lizeth Fuentes-Mera, Marco Antonio Ponce-Camacho, Gabriel A. Devenyi, M. Mallar, Alberto Camacho-Morales, Eduardo E. Garza-Villarreal. Maternal cafeteria diet exposure primes depression-like behavior in the offspring evoking lower brain volume related to changes in synaptic terminals and gliosis. *Translational Psychiatry* 11 (1): 1–13.(2020)
+* Eduardo A. Garza-Villarreal*, Ruth Alcala-Lozano, Sofia Fernandez-Lozano, Erik Morelos-Santana, Alan Davalos, Vivianaa Villicana, Sarael Alcauter,  Francisco Xavier Castellanos, Jorge J Gonzalez-Olvera. [Clinical and functional connectivity outcomes of 5-Hz repeated transcranial magnetic stimulation as an add-on treatment in cocaine use disorder: a double-blind randomized controlled trial.](https://www.medrxiv.org/content/10.1101/2020.07.15.20154708v1) *Accepted in Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.* Pre-registration on Clinicaltrias.gov [NCT02986438](https://clinicaltrials.gov/ct2/show/NCT02986438). Data in [OpenNeuro](https://openneuro.org/datasets/ds003037), maps in [Neurovault](https://neurovault.org/collections/8519/).
 
-* Victor Pando-Naude, Sebastian Toxto, Sofia Fernandez-Lozano, Christine E. Parsons, Alcauter, and Eduardo A. Garza-Villarreal. [Gray and white matter morphology in substance use disorders: A neuroimaging systematic review and meta-analysis](https://www.biorxiv.org/content/10.1101/2020.05.29.122812v1). Pre-registration in Prospero # CRD42017071222. *Translational Psychiatry* 11 (1): 29.
+* Luis A. Trujillo-Villarreal, Viktor J. Romero-Díaz, Iván Alberto Marino-Martínez, Lizeth Fuentes-Mera, Marco Antonio Ponce-Camacho, Gabriel A. Devenyi, M. Mallar, Alberto Camacho-Morales, Eduardo E. Garza-Villarreal*. Maternal cafeteria diet exposure primes depression-like behavior in the offspring evoking lower brain volume related to changes in synaptic terminals and gliosis. *Translational Psychiatry* 11 (1): 1–13.(2020)
+
+* Victor Pando-Naude, Sebastian Toxto, Sofia Fernandez-Lozano, Christine E. Parsons, Alcauter, and Eduardo A. Garza-Villarreal*. [Gray and white matter morphology in substance use disorders: A neuroimaging systematic review and meta-analysis](https://www.biorxiv.org/content/10.1101/2020.05.29.122812v1). Pre-registration in Prospero # CRD42017071222. *Translational Psychiatry* 11 (1): 29.
 
 ### 2020
 
